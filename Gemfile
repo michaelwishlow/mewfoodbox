@@ -28,6 +28,8 @@ gem 'simple_form', '~> 3.0', '>= 3.0.2'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+gem 'bootstrap-sass', '~> 3.2', '>= 3.2.0.2'
+
 
 
 group :development, :test do
