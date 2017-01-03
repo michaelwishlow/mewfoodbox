@@ -30,6 +30,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass', '~> 3.2', '>= 3.2.0.2'
 
+gem 'paperclip', '~> 4.2'
+
 
 
 group :development, :test do
