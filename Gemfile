@@ -34,6 +34,8 @@ gem 'paperclip', '~> 4.2'
 
 gem 'cocoon', '~> 1.2', '>= 1.2.6'
 
+gem 'devise', '~> 3.3'
+
 
 
 group :development, :test do
